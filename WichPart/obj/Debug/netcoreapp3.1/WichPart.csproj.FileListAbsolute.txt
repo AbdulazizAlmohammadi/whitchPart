@@ -1,0 +1,13 @@
+C:\Users\3zAl7arbi\source\repos\WichPart\WichPart\bin\Debug\netcoreapp3.1\WichPart.exe
+C:\Users\3zAl7arbi\source\repos\WichPart\WichPart\bin\Debug\netcoreapp3.1\WichPart.deps.json
+C:\Users\3zAl7arbi\source\repos\WichPart\WichPart\bin\Debug\netcoreapp3.1\WichPart.runtimeconfig.json
+C:\Users\3zAl7arbi\source\repos\WichPart\WichPart\bin\Debug\netcoreapp3.1\WichPart.runtimeconfig.dev.json
+C:\Users\3zAl7arbi\source\repos\WichPart\WichPart\bin\Debug\netcoreapp3.1\WichPart.dll
+C:\Users\3zAl7arbi\source\repos\WichPart\WichPart\bin\Debug\netcoreapp3.1\WichPart.pdb
+C:\Users\3zAl7arbi\source\repos\WichPart\WichPart\obj\Debug\netcoreapp3.1\WichPart.csprojAssemblyReference.cache
+C:\Users\3zAl7arbi\source\repos\WichPart\WichPart\obj\Debug\netcoreapp3.1\WichPart.AssemblyInfoInputs.cache
+C:\Users\3zAl7arbi\source\repos\WichPart\WichPart\obj\Debug\netcoreapp3.1\WichPart.AssemblyInfo.cs
+C:\Users\3zAl7arbi\source\repos\WichPart\WichPart\obj\Debug\netcoreapp3.1\WichPart.csproj.CoreCompileInputs.cache
+C:\Users\3zAl7arbi\source\repos\WichPart\WichPart\obj\Debug\netcoreapp3.1\WichPart.dll
+C:\Users\3zAl7arbi\source\repos\WichPart\WichPart\obj\Debug\netcoreapp3.1\WichPart.pdb
+C:\Users\3zAl7arbi\source\repos\WichPart\WichPart\obj\Debug\netcoreapp3.1\WichPart.genruntimeconfig.cache
